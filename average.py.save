@@ -1,0 +1,10 @@
+number= int (input ("please enter a number: "))
+print(number)
+
+
+while input("please enter the next number, enter 0 to calculate the average: "):
+	next_number=()
+	print()
+		average= input( (number+ next_number)//2)
+		print(average)
+		exit()

@@ -1,0 +1,10 @@
+star_name='Mintaka'
+apparent_magnitude=2.23
+print('The following Star:')
+print(star_name)
+print('Has an apparent magnitude of:')
+print(apparent_magnitude)
+if apparent_magnitude >= 7.0:
+    print('and CAN NOT be seen from Earth with the naked eye')
+else:
+    print('and CAN be seen from Earth with the naked eye')
